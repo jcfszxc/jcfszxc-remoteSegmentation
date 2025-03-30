@@ -1,0 +1,8 @@
+preprocess_data/* 
+raw_data/* 
+crop_data/*
+checkpoints/*
+CA_NDVI_model.pkl
+*.pyc
+__pycache__/
+*.pkl
